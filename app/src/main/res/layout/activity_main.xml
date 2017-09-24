@@ -9,5 +9,6 @@
         <include layout="@layout/activity_linear_layout"/>
         <include layout="@layout/activity_relative_layout"/>
         <include layout="@layout/activity_table_layout"/>
+        <include layout="@layout/activity_card_view_frame_layout"/>
     </LinearLayout>
 </ScrollView>
